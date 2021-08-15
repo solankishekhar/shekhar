@@ -1,5 +1,5 @@
-                                                                ### Hi Developers,I'm Shekhar 👋
-                                                                    Full Stack Web Developer
+###                                                                       Hi Developers,I'm Shekhar 👋
+###                                                                       Full Stack Web Developer
  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shekhar-solanki-353513191/)](https://www.linkedin.com/in/shekhar-solanki-353513191/)
